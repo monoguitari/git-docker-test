@@ -1,2 +1,2 @@
 # git-docker-test
-Getting familiar with github and docker interaction
+Getting familiar with github and docker interaction test
